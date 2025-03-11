@@ -1,0 +1,6 @@
+Hello, I’m Hamid Raza, a dedicated Software Engineer with three years of experience in developing innovative software solutions. My expertise encompasses Flutter development, SQL, ERP architecture, and software project management. I have a proven track record of addressing complex challenges to deliver efficient, user-centric applications. At MetaXperts Pvt LTD, I have honed my skills and remain committed to continuous learning and industry advancements.
+Notable projects I have delivered include the Polio Vaccination Management System, Hawa Restaurant Management System, Courage Pvt LTD Order Booking, Booker Trackers App, and Valor Trading App. These projects have not only enhanced my technical skills but also strengthened my ability to manage and deliver projects on time and within scope.
+In addition to my development work, I am actively involved in research, exploring new technologies and methodologies to stay ahead in the ever-evolving field of software development. My passion for technology drives me to continuously seek out innovative solutions and improvements.
+Let’s connect to explore the evolving landscape of software development and collaborate on creating impactful software solutions..
+https://www.linkedin.com/in/hamid-raza-a01780199
+https://github.com/Hamid-Raza-22 
